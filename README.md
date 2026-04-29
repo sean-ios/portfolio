@@ -1,4 +1,4 @@
-# Alex Rivera — Portfolio
+# SEAN LABS — Portfolio
 
 Production-ready personal portfolio built with vanilla HTML/CSS/JS, deployed via **Cloudflare Pages** with automated push-to-deploy.
 
